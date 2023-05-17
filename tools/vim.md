@@ -19,8 +19,10 @@ make install
 ```
 
 ### Windows安装（GVIM）
+```bash
 https://www.vim.org/download.php#pc
 https://github.com/vim/vim-win32-installer/releases
+```
 
 ## 如何使用Vim
 
