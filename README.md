@@ -1,6 +1,8 @@
 # awesome-cheatsheets
 awesome-cheatsheets （很棒的备忘单）
 
+灵感来源于[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+
 **总结工作中、日常使用中的语言和工具备忘单。** 备忘单类似于小卡片、便利贴，也可以称之为小抄。
 
 小抄是办公场所常用的一种笔记或记录方式。它的特点是体积小、内容简明扼要。通常用于记下一些重要信息或关键点,方便工作中随时查阅和参考。
