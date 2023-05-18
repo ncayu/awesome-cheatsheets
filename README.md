@@ -22,10 +22,15 @@ awesome-cheatsheets （很棒的备忘单）
 - 体积小,易携带
 熟练掌握小抄的撰写方法,对工作助益很大。它可以帮助我们提高工作效率,减少遗忘和遗漏,特别适用于需要记忆和处理大量信息的工作岗位。很多高效工作者都善于运用小抄等工具进行信息管理与梳理。
 
-## tools
+## Tools
 
 
 [vim编辑器](https://github.com/ncayu/awesome-cheatsheets/blob/master/tools/vim.md)
 
 
 [Docker容器](https://github.com/ncayu/awesome-cheatsheets/blob/master/tools/docker.md)
+
+
+## Languages
+
+[bash](https://github.com/ncayu/awesome-cheatsheets/blob/master/languages/bash.sh)
