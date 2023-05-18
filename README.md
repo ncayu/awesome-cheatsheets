@@ -25,7 +25,7 @@ awesome-cheatsheets （很棒的备忘单）
 ## tools
 
 
-[vim](https://github.com/ncayu/awesome-cheatsheets/blob/master/tools/vim.md)
+[vim编辑器](https://github.com/ncayu/awesome-cheatsheets/blob/master/tools/vim.md)
 
 
-[Docker](https://github.com/ncayu/awesome-cheatsheets/blob/master/tools/docker.md)
+[Docker容器](https://github.com/ncayu/awesome-cheatsheets/blob/master/tools/docker.md)
